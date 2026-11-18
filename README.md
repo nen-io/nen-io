@@ -2,6 +2,8 @@
 
 I build web products end to end: React and TypeScript front ends, Node.js and Go services, PostgreSQL, AWS. Eight years across fintech, crypto, gaming and B2B software, most recently shipping LLM-powered features in production.
 
+**Featured: [Quickly case study](https://claude.ai/artifact/A8XqYG9L9G7JsC9BKMjr71)** · a document-review product I built and run. A model drafts tables from financial documents and a reviewer approves every figure against its source; editing a figure invalidates the earlier validation. Go API and job queue, React 19, PostgreSQL. The page includes a one-minute walkthrough video; the source is private.
+
 **Samples you can run in two minutes**
 
 - [Relay](https://github.com/nen-io/relay-workflow-studio) · visual workflow studio. Change a branch condition, rerun the same payload, inspect each node's input and output. [Live demo](https://nen-io.github.io/relay-workflow-studio/)
@@ -12,6 +14,6 @@ I build web products end to end: React and TypeScript front ends, Node.js and Go
 
 These are recent AI-assisted demonstrations with tests and stated limits. Each README has a three-minute reviewer path.
 
-**Production work** is in private repositories: client portals, KYC onboarding, real-time exchange UI, and Quickly, a document-review product I run (Go, React, PostgreSQL).
+**Production work for employers** is in private repositories: client portals, KYC onboarding and real-time exchange UI.
 
 London · remote · [LinkedIn](https://www.linkedin.com/in/ajith-abraham-6b4849102/)
